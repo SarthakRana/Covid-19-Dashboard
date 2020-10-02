@@ -1,8 +1,8 @@
-# 🦠 Covid 19 Dashboard - A Dashboard cum Web App
+# 🦠 Covid 19 Dashboard - A Dashboard Cum Web App 🦠
 
 Checkout the dashboard app here -- https://covid-19-dashpy.herokuapp.com/
 <br>
-*Please wait for 15-20 seconds for site to load initially.*
+*Please wait for 10-12 seconds for site to load initially.*
 <br>
 **You can view the dashboard demo video in _covid_19_dashboard_video.mp4_ file in this repo.**
 
