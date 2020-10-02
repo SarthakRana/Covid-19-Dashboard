@@ -1,7 +1,10 @@
-# 🦠 Covid 19 Dashboard - A Dashboard cum Web App 😷
+# 🦠 Covid 19 Dashboard - A Dashboard cum Web App
 
 Checkout the dashboard app here -- https://covid-19-dashpy.herokuapp.com/
+<br>
 *Please wait for 15-20 seconds for site to load initially.*
+<br>
+**You can view the dashboard demo video in _covid_19_dashboard_video.mp4_ file in this repo.**
 
 ![](https://www.apta.com/wp-content/uploads/home-banner-1.jpg)
 
@@ -51,6 +54,19 @@ gh repo clone SarthakRana/Covid-19-Dashboard
    Please wait for 5-10 seconds for command to run.
 6. A browser widow should open up with  the app.
 7. Enjoy :)
+
+# Output
+
+__Here are some screenshots from the final dashboard__
+
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_1screenshot_59.png)
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_1screenshot_66.png)
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_1screenshot_68.png)
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_1screenshot_76.png)
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_2screenshot_61.png)
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_3screenshot_65.png)
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_screenshot_72.png)
+![](https://github.com/SarthakRana/Covid-19-Dashboard/blob/main/Screenshots/rsz_screenshot_78.png)
 
 ## Roadmap
 
