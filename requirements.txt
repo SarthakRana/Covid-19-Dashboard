@@ -5,4 +5,4 @@ pandas==1.1.2
 plotly==4.11.0
 streamlit
 streamlit-folium==0.1.0
-
+scipy
