@@ -26,7 +26,7 @@ death_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-1
 recovered_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv')
 country_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv')
 
-st.markdown("<h1 style='text-align: center; color: black;'>🦠 Covid-19 Dashboard 😷</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: white;'>🦠 Covid-19 Dashboard 😷</h1>", unsafe_allow_html=True)
 
 confirmed_total = int(country_df['Confirmed'].sum())
 active_total = int(country_df['Active'].sum())
@@ -72,6 +72,13 @@ st.markdown("""
 }
 .center{
   text-align : center; 
+}
+:root, img, video, .higlight,h2{
+    filter: invert(100%) hue-rotate(180deg);
+}
+h1{
+    color: white;
+    filter: invert(100%) hue-rotate(180deg);
 }
 </style>            
 """, unsafe_allow_html=True)
