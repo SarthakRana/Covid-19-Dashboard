@@ -25,7 +25,6 @@ You need to have the following dependecies before running the app:
 - scipy `pip install scipy`
 - plotly `pip install plotly`
 - streamlit `pip install streamlit`
-- folium `pip install numpy`
 - streamlit-folium `pip install streamlit-folium`
 - datetime `pip install DateTime`
 
